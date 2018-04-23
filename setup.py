@@ -13,6 +13,7 @@ setup(
         "singer-python>=3.2.0",
         "requests",
         "zeep",
+        "pendulum==1.2.0",
     ],
     entry_points="""
     [console_scripts]
